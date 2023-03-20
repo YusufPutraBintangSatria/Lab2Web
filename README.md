@@ -1,5 +1,4 @@
-# Coba
-# UAS_py
+# Lab2Web
 ## Praktikum 2: PHP Dasar
 ## Membuat program PHP sederhana.
 
